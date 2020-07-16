@@ -1,0 +1,11 @@
+{
+  "BeerDb": "C:\\Projects\\BeerDemo\\TestBeerWebAPI\\BeerData\\test_database.json",
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerDemo", "BeerDemo\BeerDemo.csproj", "{8A25A130-8B5D-4EE0-A5C2-E45D5A39681C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBeerWebAPI", "TestBeerWebAPI\TestBeerWebAPI.csproj", "{05702E84-D325-4AAD-848B-379269286323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A25A130-8B5D-4EE0-A5C2-E45D5A39681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A25A130-8B5D-4EE0-A5C2-E45D5A39681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A25A130-8B5D-4EE0-A5C2-E45D5A39681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A25A130-8B5D-4EE0-A5C2-E45D5A39681C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05702E84-D325-4AAD-848B-379269286323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05702E84-D325-4AAD-848B-379269286323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05702E84-D325-4AAD-848B-379269286323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05702E84-D325-4AAD-848B-379269286323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2616D5-E480-440D-8F4D-42CA2970B9DD}
+	EndGlobalSection
+EndGlobal
